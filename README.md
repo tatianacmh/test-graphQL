@@ -1,4 +1,4 @@
-# food-care
+# Test GraphQL
 Test GraphQL API
 
 * Clonar el proyecto
