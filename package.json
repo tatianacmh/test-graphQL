@@ -1,0 +1,26 @@
+{
+  "name": "food-care",
+  "version": "1.0.0",
+  "description": "Food tracking system to take care of your health in case you have digestive problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatianacmh/food-care.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatianacmh/food-care/issues"
+  },
+  "homepage": "https://github.com/tatianacmh/food-care#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.17.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
